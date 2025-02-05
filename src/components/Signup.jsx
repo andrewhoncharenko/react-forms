@@ -8,6 +8,8 @@ export default function Signup() {
     data.acquisition = acquisitionChannel;
   }
 
+ 
+
     return (
       <form onSubmit={handleSubmit}>
         <h2>Welcome on board!</h2>
